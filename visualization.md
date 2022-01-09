@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Spatial Analysis
+#title:  Economic Issues
 ---
 <div class="text-center">
-  <h1>Thanks for visiting.</h1>
-  <h1>Please comeback</h1>
+  <h3>Thanks for visiting.</h3>
+  <h3>Please comeback</h3>
   <br/>
 
   <img src="{{ site.baseurl }}/img/under.jpg" />

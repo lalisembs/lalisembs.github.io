@@ -1,8 +1,8 @@
 ---
-layout: post
-title: My First Post
-subtitle: Søren Kierkegaard on Subjectivity, Irony and the Crisis of Modernity
-tags: [Søren Kierkegaard, Socrates, Philosophy]
+#layout: post
+#title: My First Post
+#subtitle: Søren Kierkegaard on Subjectivity, Irony and the Crisis of Modernity
+#tags: [Søren Kierkegaard, Socrates, Philosophy]
 ---
 <div class="text-center">
   <br/>

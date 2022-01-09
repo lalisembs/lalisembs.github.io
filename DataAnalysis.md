@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analysis
+#title: Data Analysis
 ---
 
 <div class="text-center">

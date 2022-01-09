@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Zekarias M.
+title: Lalise Fetene.
 
 # Short description of your site
 #description: Econ-DS-ML
@@ -28,11 +28,12 @@ navbar-links:
     #- Welcome: "http://0.0.0.0:4000/04cv/"
     #- ss:  "http://0.0.0.0:4000/04cv/"
 
-  Economics: "Economics"
-  Data Analysis: "DataAnalysis"
-  ML4Econ: "ML4Econ"
-  Spatial: "Spatial"
-  #Resume: "Resume"
+  Portfolio: "portfolio"
+  Visualization: "visualization"
+  Resume: "Resume"
+  #ML4Econ: "ML4Econ"
+  #Spatial: "Spatial"
+
   #About Me: "aboutme"
   #About2: "2aboutme"
   #Resources:
@@ -77,7 +78,7 @@ footer-link-col: "#000000"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Zekarias M.
+  name: Lalise F.
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -133,7 +134,7 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "http://disqus.com/by/zekiarias_m"
+#disqus: "http://disqus.com/by/zekiarias_m"
 
 # Facebook App ID
 # fb_app_id: ""

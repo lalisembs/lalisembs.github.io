@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Economic Issues
+#title:  Economic Issues
 ---
 <div class="text-center">
   <h3>Thanks for visiting.</h3>
